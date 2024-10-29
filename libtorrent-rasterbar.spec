@@ -7,7 +7,7 @@
 #
 Name     : libtorrent-rasterbar
 Version  : 2.0.10
-Release  : 17
+Release  : 18
 URL      : https://github.com/arvidn/libtorrent/releases/download/v2.0.10/libtorrent-rasterbar-2.0.10.tar.gz
 Source0  : https://github.com/arvidn/libtorrent/releases/download/v2.0.10/libtorrent-rasterbar-2.0.10.tar.gz
 Summary  : No detailed summary available
